@@ -1,0 +1,4015 @@
+Customer ID,Job Classification
+100000001,White Collar
+400000002,Blue Collar
+100000003,White Collar
+300000004,White Collar
+100000005,Blue Collar
+300000006,Blue Collar
+100000007,Blue Collar
+200000008,Other
+300000009,White Collar
+100000010,White Collar
+100000011,White Collar
+100000012,White Collar
+100000013,White Collar
+200000014,Other
+300000015,Other
+100000016,White Collar
+200000017,Other
+200000018,Other
+100000019,Blue Collar
+100000020,Blue Collar
+300000021,Other
+200000022,Blue Collar
+300000023,White Collar
+200000024,Blue Collar
+100000025,White Collar
+200000026,Blue Collar
+400000027,White Collar
+100000028,White Collar
+200000029,Blue Collar
+100000030,White Collar
+100000031,White Collar
+300000032,White Collar
+200000033,Other
+100000034,Other
+100000035,Blue Collar
+100000036,White Collar
+100000037,White Collar
+100000038,Other
+200000039,Blue Collar
+200000040,Other
+100000041,Blue Collar
+100000042,White Collar
+200000043,Blue Collar
+400000044,Other
+100000045,Other
+200000046,Other
+200000047,Other
+400000048,Other
+100000049,White Collar
+100000050,White Collar
+100000051,Blue Collar
+100000052,Blue Collar
+100000053,Other
+100000054,White Collar
+100000055,White Collar
+100000056,White Collar
+100000057,Blue Collar
+100000058,White Collar
+100000059,Other
+100000060,White Collar
+100000061,White Collar
+100000062,Other
+100000063,White Collar
+100000064,White Collar
+200000065,Other
+200000066,Blue Collar
+200000067,Blue Collar
+200000068,Blue Collar
+200000069,Blue Collar
+200000070,Other
+200000071,Blue Collar
+200000072,Other
+300000073,White Collar
+300000074,Other
+400000075,White Collar
+200000076,Blue Collar
+100000077,White Collar
+100000078,Other
+300000079,Blue Collar
+100000080,White Collar
+100000081,White Collar
+100000082,White Collar
+100000083,Blue Collar
+100000084,White Collar
+100000085,White Collar
+100000086,White Collar
+100000087,Other
+100000088,White Collar
+100000089,White Collar
+100000090,White Collar
+100000091,White Collar
+100000092,White Collar
+100000093,White Collar
+100000094,Other
+100000095,White Collar
+100000096,White Collar
+100000097,Blue Collar
+100000098,White Collar
+200000099,Blue Collar
+200000100,Other
+200000101,Blue Collar
+200000102,White Collar
+200000103,White Collar
+200000104,Other
+200000105,White Collar
+200000106,Other
+200000107,Blue Collar
+200000108,Blue Collar
+200000109,Other
+200000110,Blue Collar
+300000111,Other
+300000112,White Collar
+400000113,White Collar
+400000114,Other
+400000115,Blue Collar
+100000116,Other
+100000117,Other
+200000118,Other
+100000119,White Collar
+100000120,White Collar
+100000121,White Collar
+100000122,Other
+100000123,White Collar
+100000124,Other
+100000125,White Collar
+100000126,White Collar
+100000127,White Collar
+100000128,White Collar
+100000129,White Collar
+100000130,White Collar
+100000131,White Collar
+100000132,Blue Collar
+100000133,White Collar
+100000134,Blue Collar
+100000135,White Collar
+100000136,White Collar
+100000137,White Collar
+100000138,White Collar
+100000139,White Collar
+200000140,Blue Collar
+100000141,White Collar
+100000142,White Collar
+100000143,Other
+100000144,White Collar
+100000145,White Collar
+100000146,White Collar
+100000147,White Collar
+100000148,White Collar
+100000149,White Collar
+100000150,White Collar
+100000151,White Collar
+100000152,White Collar
+100000153,White Collar
+100000154,White Collar
+100000155,Blue Collar
+100000156,Other
+100000157,White Collar
+100000158,White Collar
+100000159,White Collar
+100000160,White Collar
+100000161,White Collar
+100000162,Other
+100000163,White Collar
+200000164,Other
+200000165,Blue Collar
+200000166,Blue Collar
+300000167,Blue Collar
+300000168,White Collar
+100000169,Blue Collar
+100000170,Other
+100000171,White Collar
+100000172,Blue Collar
+100000173,White Collar
+100000174,White Collar
+100000175,White Collar
+100000176,White Collar
+100000177,White Collar
+100000178,Blue Collar
+100000179,Blue Collar
+400000180,Blue Collar
+100000181,White Collar
+100000182,White Collar
+100000183,White Collar
+100000184,Other
+100000185,Other
+200000186,Other
+100000187,White Collar
+100000188,White Collar
+100000189,White Collar
+100000190,Other
+200000191,Blue Collar
+100000192,White Collar
+100000193,Other
+100000194,White Collar
+100000195,White Collar
+100000196,White Collar
+100000197,Blue Collar
+100000198,White Collar
+100000199,Blue Collar
+100000200,White Collar
+100000201,Other
+100000202,White Collar
+100000203,White Collar
+100000204,White Collar
+100000205,Blue Collar
+100000206,White Collar
+100000207,White Collar
+100000208,White Collar
+100000209,Blue Collar
+200000210,Blue Collar
+100000211,White Collar
+100000212,White Collar
+100000213,Blue Collar
+100000214,Other
+100000215,Blue Collar
+100000216,White Collar
+100000217,White Collar
+100000218,White Collar
+100000219,White Collar
+100000220,Other
+100000221,Blue Collar
+100000222,White Collar
+100000223,White Collar
+100000224,White Collar
+100000225,White Collar
+100000226,White Collar
+100000227,Other
+100000228,White Collar
+100000229,White Collar
+100000230,White Collar
+100000231,White Collar
+100000232,Blue Collar
+100000233,White Collar
+100000234,White Collar
+100000235,White Collar
+100000236,White Collar
+100000237,White Collar
+300000238,Other
+100000239,White Collar
+100000240,White Collar
+100000241,White Collar
+100000242,Blue Collar
+100000243,Blue Collar
+100000244,White Collar
+100000245,White Collar
+100000246,White Collar
+100000247,White Collar
+100000248,White Collar
+100000249,White Collar
+100000250,Blue Collar
+100000251,White Collar
+100000252,White Collar
+100000253,White Collar
+100000254,White Collar
+100000255,Blue Collar
+200000256,Blue Collar
+200000257,Blue Collar
+200000258,Other
+200000259,Other
+200000260,Blue Collar
+200000261,Blue Collar
+200000262,Other
+200000263,Other
+200000264,Other
+200000265,Blue Collar
+200000266,Other
+200000267,Other
+300000268,Blue Collar
+300000269,Other
+300000270,Other
+300000271,White Collar
+400000272,White Collar
+100000273,White Collar
+100000274,Other
+100000275,White Collar
+100000276,Blue Collar
+100000277,White Collar
+100000278,Blue Collar
+100000279,White Collar
+100000280,Other
+100000281,Blue Collar
+100000282,White Collar
+100000283,White Collar
+100000284,White Collar
+100000285,White Collar
+100000286,Other
+100000287,White Collar
+100000288,White Collar
+100000289,White Collar
+100000290,White Collar
+100000291,White Collar
+100000292,White Collar
+100000293,Other
+100000294,Other
+200000295,Blue Collar
+100000296,White Collar
+100000297,White Collar
+100000298,White Collar
+100000299,White Collar
+200000300,Blue Collar
+200000301,Blue Collar
+300000302,Blue Collar
+100000303,Blue Collar
+100000304,White Collar
+100000305,White Collar
+100000306,White Collar
+100000307,Blue Collar
+100000308,White Collar
+100000309,White Collar
+100000310,White Collar
+100000311,Blue Collar
+100000312,Blue Collar
+100000313,White Collar
+100000314,White Collar
+100000315,Other
+100000316,White Collar
+100000317,White Collar
+100000318,Blue Collar
+100000319,White Collar
+100000320,White Collar
+100000321,Blue Collar
+100000322,Other
+100000323,White Collar
+100000324,White Collar
+100000325,Other
+100000326,White Collar
+100000327,Other
+100000328,White Collar
+100000329,White Collar
+100000330,White Collar
+100000331,White Collar
+100000332,White Collar
+200000333,Blue Collar
+100000334,White Collar
+100000335,Blue Collar
+100000336,White Collar
+100000337,White Collar
+100000338,White Collar
+200000339,Other
+300000340,White Collar
+100000341,White Collar
+100000342,White Collar
+100000343,White Collar
+100000344,White Collar
+100000345,White Collar
+100000346,White Collar
+200000347,Other
+200000348,Other
+200000349,Blue Collar
+200000350,Blue Collar
+300000351,Blue Collar
+200000352,White Collar
+200000353,Blue Collar
+200000354,Other
+200000355,Blue Collar
+200000356,Blue Collar
+300000357,Other
+300000358,Blue Collar
+400000359,Other
+100000360,White Collar
+200000361,Blue Collar
+200000362,White Collar
+200000363,Blue Collar
+300000364,White Collar
+300000365,Other
+300000366,White Collar
+300000367,White Collar
+400000368,Other
+100000369,White Collar
+200000370,Other
+200000371,Other
+200000372,Blue Collar
+200000373,Blue Collar
+300000374,Blue Collar
+300000375,Other
+400000376,Other
+100000377,Other
+100000378,White Collar
+100000379,Other
+100000380,White Collar
+100000381,White Collar
+100000382,Other
+100000383,White Collar
+200000384,Other
+200000385,Blue Collar
+200000386,Other
+200000387,Blue Collar
+200000388,Blue Collar
+200000389,Blue Collar
+200000390,Blue Collar
+200000391,Blue Collar
+300000392,Other
+300000393,Other
+300000394,Blue Collar
+300000395,Other
+400000396,Blue Collar
+400000397,Other
+400000398,Other
+400000399,Other
+100000400,White Collar
+100000401,White Collar
+100000402,White Collar
+100000403,White Collar
+100000404,White Collar
+100000405,White Collar
+200000406,Blue Collar
+200000407,Other
+200000408,Blue Collar
+300000409,Other
+300000410,White Collar
+300000411,White Collar
+100000412,White Collar
+100000413,Blue Collar
+200000414,Other
+200000415,Blue Collar
+200000416,Blue Collar
+200000417,Blue Collar
+300000418,White Collar
+400000419,Other
+100000420,White Collar
+100000421,Other
+100000422,White Collar
+100000423,White Collar
+200000424,Blue Collar
+200000425,Other
+200000426,Blue Collar
+300000427,White Collar
+300000428,White Collar
+300000429,Other
+300000430,White Collar
+400000431,White Collar
+400000432,Other
+400000433,White Collar
+400000434,Other
+100000435,White Collar
+100000436,Other
+100000437,Blue Collar
+200000438,White Collar
+300000439,Blue Collar
+300000440,White Collar
+400000441,Blue Collar
+400000442,Other
+100000443,White Collar
+100000444,Blue Collar
+100000445,White Collar
+100000446,White Collar
+200000447,Blue Collar
+200000448,Blue Collar
+400000449,White Collar
+400000450,Blue Collar
+100000451,Blue Collar
+100000452,White Collar
+100000453,White Collar
+100000454,Other
+100000455,Blue Collar
+100000456,White Collar
+200000457,Blue Collar
+200000458,Blue Collar
+200000459,Other
+200000460,Other
+200000461,White Collar
+200000462,Other
+200000463,Blue Collar
+200000464,Blue Collar
+200000465,Other
+300000466,White Collar
+300000467,Other
+300000468,Other
+300000469,Blue Collar
+400000470,White Collar
+400000471,White Collar
+400000472,Other
+400000473,Other
+400000474,White Collar
+100000475,White Collar
+100000476,White Collar
+100000477,White Collar
+100000478,White Collar
+200000479,Other
+200000480,Blue Collar
+200000481,Blue Collar
+200000482,White Collar
+200000483,Other
+200000484,Blue Collar
+200000485,White Collar
+200000486,Blue Collar
+300000487,White Collar
+400000488,Other
+100000489,White Collar
+200000490,Other
+200000491,Blue Collar
+200000492,Blue Collar
+200000493,Blue Collar
+300000494,White Collar
+300000495,White Collar
+300000496,Other
+400000497,White Collar
+100000498,Blue Collar
+100000499,Other
+100000500,Other
+100000501,White Collar
+100000502,White Collar
+200000503,Blue Collar
+200000504,White Collar
+200000505,Blue Collar
+200000506,Blue Collar
+200000507,Blue Collar
+200000508,Other
+300000509,White Collar
+300000510,White Collar
+300000511,Blue Collar
+300000512,White Collar
+400000513,Other
+400000514,Other
+400000515,White Collar
+400000516,Other
+400000517,Other
+100000518,Blue Collar
+100000519,White Collar
+100000520,White Collar
+100000521,Blue Collar
+200000522,White Collar
+200000523,Blue Collar
+300000524,White Collar
+300000525,Blue Collar
+300000526,Other
+300000527,White Collar
+300000528,Other
+300000529,White Collar
+300000530,White Collar
+300000531,White Collar
+200000532,Blue Collar
+200000533,Other
+200000534,Blue Collar
+200000535,Blue Collar
+200000536,Blue Collar
+200000537,Other
+200000538,Blue Collar
+300000539,Blue Collar
+400000540,Other
+400000541,Blue Collar
+100000542,White Collar
+100000543,White Collar
+100000544,White Collar
+100000545,Blue Collar
+100000546,Blue Collar
+100000547,White Collar
+200000548,Other
+200000549,Other
+300000550,Blue Collar
+300000551,Other
+300000552,White Collar
+300000553,Blue Collar
+400000554,Other
+400000555,Other
+400000556,Other
+400000557,Other
+100000558,Other
+100000559,White Collar
+100000560,Other
+100000561,White Collar
+100000562,White Collar
+100000563,Blue Collar
+100000564,White Collar
+100000565,Other
+100000566,White Collar
+100000567,White Collar
+100000568,White Collar
+100000569,White Collar
+100000570,Other
+100000571,White Collar
+100000572,White Collar
+100000573,White Collar
+100000574,Other
+100000575,White Collar
+100000576,White Collar
+100000577,Other
+100000578,Blue Collar
+200000579,Other
+200000580,Other
+200000581,Blue Collar
+200000582,Blue Collar
+200000583,Other
+200000584,Blue Collar
+200000585,Other
+200000586,Blue Collar
+200000587,Blue Collar
+200000588,Blue Collar
+200000589,Blue Collar
+200000590,Blue Collar
+200000591,Blue Collar
+300000592,White Collar
+300000593,Other
+300000594,White Collar
+300000595,Blue Collar
+300000596,White Collar
+300000597,White Collar
+300000598,Blue Collar
+300000599,White Collar
+400000600,Other
+400000601,Blue Collar
+400000602,White Collar
+100000603,White Collar
+100000604,White Collar
+100000605,White Collar
+100000606,White Collar
+200000607,White Collar
+200000608,Other
+200000609,Other
+200000610,Blue Collar
+300000611,Blue Collar
+300000612,White Collar
+300000613,White Collar
+300000614,Blue Collar
+300000615,Other
+100000616,White Collar
+100000617,Blue Collar
+100000618,White Collar
+200000619,Blue Collar
+200000620,Blue Collar
+200000621,Blue Collar
+200000622,White Collar
+200000623,Other
+300000624,Blue Collar
+400000625,White Collar
+100000626,White Collar
+100000627,White Collar
+100000628,White Collar
+200000629,Other
+200000630,Blue Collar
+200000631,Blue Collar
+200000632,Blue Collar
+300000633,White Collar
+300000634,White Collar
+300000635,White Collar
+300000636,White Collar
+300000637,White Collar
+400000638,Blue Collar
+400000639,White Collar
+100000640,Blue Collar
+100000641,Other
+100000642,Blue Collar
+100000643,Other
+200000644,Blue Collar
+200000645,Other
+200000646,Blue Collar
+200000647,Other
+200000648,Blue Collar
+200000649,Blue Collar
+300000650,Blue Collar
+300000651,White Collar
+300000652,White Collar
+400000653,White Collar
+400000654,Other
+100000655,White Collar
+100000656,Other
+100000657,White Collar
+200000658,Other
+200000659,Blue Collar
+200000660,Blue Collar
+200000661,Blue Collar
+200000662,Blue Collar
+200000663,Other
+200000664,White Collar
+200000665,Other
+300000666,Blue Collar
+300000667,White Collar
+300000668,White Collar
+200000669,Blue Collar
+200000670,Blue Collar
+200000671,Other
+200000672,Other
+200000673,Other
+200000674,Blue Collar
+300000675,Blue Collar
+400000676,Other
+100000677,White Collar
+100000678,White Collar
+100000679,White Collar
+100000680,Blue Collar
+200000681,Other
+200000682,Other
+200000683,Blue Collar
+200000684,Blue Collar
+300000685,Blue Collar
+300000686,Blue Collar
+300000687,Other
+300000688,White Collar
+300000689,White Collar
+400000690,Other
+400000691,White Collar
+400000692,Other
+100000693,White Collar
+100000694,White Collar
+100000695,White Collar
+200000696,Other
+200000697,Other
+200000698,Blue Collar
+200000699,Other
+200000700,Blue Collar
+200000701,Other
+300000702,White Collar
+300000703,White Collar
+300000704,White Collar
+300000705,White Collar
+400000706,White Collar
+100000707,White Collar
+100000708,White Collar
+100000709,White Collar
+100000710,White Collar
+200000711,Other
+200000712,Blue Collar
+200000713,Blue Collar
+200000714,Other
+200000715,Blue Collar
+200000716,White Collar
+300000717,White Collar
+300000718,White Collar
+300000719,White Collar
+400000720,White Collar
+400000721,White Collar
+100000722,White Collar
+100000723,White Collar
+100000724,White Collar
+200000725,Blue Collar
+200000726,Other
+200000727,Other
+200000728,Other
+300000729,Blue Collar
+300000730,White Collar
+300000731,White Collar
+300000732,Blue Collar
+300000733,Blue Collar
+300000734,White Collar
+300000735,Other
+300000736,Blue Collar
+400000737,Other
+400000738,Other
+400000739,Other
+400000740,Blue Collar
+400000741,Other
+100000742,White Collar
+100000743,Other
+100000744,White Collar
+100000745,White Collar
+100000746,Other
+200000747,Blue Collar
+200000748,Blue Collar
+200000749,Blue Collar
+200000750,Other
+200000751,Blue Collar
+300000752,White Collar
+300000753,Other
+400000754,Other
+400000755,Other
+400000756,Other
+400000757,Other
+400000758,White Collar
+400000759,White Collar
+100000760,White Collar
+100000761,White Collar
+200000762,Other
+200000763,White Collar
+200000764,Other
+200000765,Blue Collar
+200000766,Blue Collar
+300000767,White Collar
+300000768,Other
+400000769,White Collar
+400000770,White Collar
+100000771,White Collar
+100000772,White Collar
+100000773,Other
+200000774,Blue Collar
+200000775,Blue Collar
+300000776,Other
+300000777,White Collar
+300000778,Blue Collar
+300000779,White Collar
+400000780,Blue Collar
+100000781,Other
+100000782,White Collar
+100000783,White Collar
+200000784,Blue Collar
+200000785,White Collar
+300000786,Blue Collar
+300000787,Blue Collar
+100000788,White Collar
+100000789,White Collar
+100000790,White Collar
+200000791,White Collar
+200000792,Blue Collar
+200000793,Other
+300000794,White Collar
+400000795,Other
+100000796,White Collar
+100000797,Blue Collar
+100000798,Other
+200000799,Blue Collar
+200000800,Blue Collar
+200000801,White Collar
+200000802,Other
+200000803,Blue Collar
+200000804,White Collar
+200000805,Other
+100000806,White Collar
+100000807,White Collar
+100000808,White Collar
+100000809,White Collar
+200000810,Other
+200000811,Other
+300000812,White Collar
+300000813,White Collar
+300000814,Other
+300000815,White Collar
+100000816,White Collar
+100000817,White Collar
+100000818,White Collar
+200000819,Other
+200000820,Blue Collar
+200000821,Blue Collar
+300000822,Blue Collar
+100000823,Blue Collar
+100000824,White Collar
+100000825,Other
+100000826,White Collar
+100000827,White Collar
+200000828,Other
+400000829,Other
+400000830,White Collar
+100000831,White Collar
+100000832,White Collar
+200000833,Blue Collar
+200000834,Other
+100000835,White Collar
+100000836,White Collar
+400000837,White Collar
+100000838,White Collar
+100000839,White Collar
+100000840,White Collar
+100000841,Other
+200000842,Blue Collar
+200000843,Blue Collar
+200000844,Other
+300000845,Blue Collar
+100000846,Blue Collar
+100000847,White Collar
+100000848,White Collar
+100000849,White Collar
+100000850,Blue Collar
+100000851,White Collar
+300000852,White Collar
+100000853,White Collar
+100000854,White Collar
+200000855,Blue Collar
+200000856,Blue Collar
+300000857,Blue Collar
+100000858,Blue Collar
+100000859,White Collar
+100000860,White Collar
+100000861,Blue Collar
+100000862,Other
+200000863,Other
+200000864,Blue Collar
+200000865,Other
+200000866,Blue Collar
+100000867,White Collar
+100000868,White Collar
+100000869,White Collar
+100000870,White Collar
+100000871,White Collar
+100000872,White Collar
+100000873,White Collar
+100000874,White Collar
+100000875,White Collar
+100000876,White Collar
+100000877,White Collar
+100000878,White Collar
+100000879,White Collar
+100000880,Blue Collar
+100000881,Blue Collar
+100000882,White Collar
+100000883,White Collar
+100000884,White Collar
+100000885,White Collar
+200000886,Blue Collar
+200000887,Other
+300000888,White Collar
+100000889,White Collar
+100000890,Blue Collar
+100000891,Other
+100000892,White Collar
+100000893,White Collar
+100000894,Other
+100000895,White Collar
+200000896,Blue Collar
+200000897,Blue Collar
+100000898,White Collar
+100000899,Blue Collar
+100000900,White Collar
+100000901,White Collar
+100000902,White Collar
+200000903,Other
+200000904,Blue Collar
+300000905,Other
+100000906,White Collar
+100000907,White Collar
+100000908,White Collar
+200000909,Other
+200000910,Blue Collar
+200000911,Other
+200000912,Other
+300000913,Blue Collar
+400000914,Blue Collar
+400000915,Other
+400000916,White Collar
+100000917,Other
+100000918,White Collar
+100000919,White Collar
+100000920,Other
+100000921,White Collar
+100000922,White Collar
+100000923,White Collar
+200000924,Other
+100000925,White Collar
+100000926,White Collar
+100000927,White Collar
+100000928,White Collar
+100000929,White Collar
+100000930,White Collar
+100000931,White Collar
+100000932,White Collar
+100000933,Blue Collar
+100000934,White Collar
+100000935,Other
+100000936,White Collar
+100000937,Blue Collar
+200000938,Blue Collar
+200000939,Other
+200000940,Blue Collar
+200000941,Blue Collar
+200000942,White Collar
+200000943,Other
+200000944,Other
+200000945,Blue Collar
+200000946,Blue Collar
+200000947,Other
+200000948,White Collar
+200000949,Other
+200000950,Blue Collar
+300000951,Blue Collar
+300000952,White Collar
+300000953,Blue Collar
+300000954,White Collar
+400000955,White Collar
+400000956,White Collar
+100000957,Other
+100000958,White Collar
+100000959,Blue Collar
+100000960,White Collar
+200000961,Other
+200000962,Blue Collar
+200000963,Other
+200000964,Blue Collar
+200000965,Blue Collar
+300000966,Blue Collar
+300000967,White Collar
+100000968,White Collar
+100000969,White Collar
+100000970,White Collar
+100000971,White Collar
+100000972,White Collar
+100000973,Other
+200000974,Other
+200000975,Blue Collar
+200000976,Other
+200000977,Other
+300000978,White Collar
+300000979,White Collar
+100000980,White Collar
+100000981,Other
+100000982,White Collar
+200000983,Other
+200000984,Other
+200000985,Blue Collar
+200000986,Blue Collar
+200000987,Blue Collar
+400000988,White Collar
+100000989,Other
+100000990,Blue Collar
+100000991,White Collar
+200000992,Blue Collar
+300000993,Blue Collar
+300000994,Blue Collar
+100000995,Other
+100000996,White Collar
+100000997,White Collar
+100000998,Other
+200000999,Other
+400001000,Other
+400001001,Other
+100001002,White Collar
+100001003,Blue Collar
+100001004,White Collar
+100001005,White Collar
+100001006,Blue Collar
+100001007,Blue Collar
+300001008,Blue Collar
+300001009,Blue Collar
+300001010,Other
+100001011,White Collar
+100001012,Blue Collar
+100001013,White Collar
+100001014,White Collar
+100001015,White Collar
+100001016,White Collar
+100001017,White Collar
+100001018,White Collar
+200001019,Blue Collar
+200001020,Other
+200001021,Blue Collar
+400001022,White Collar
+100001023,White Collar
+100001024,Blue Collar
+100001025,White Collar
+100001026,White Collar
+100001027,Other
+100001028,White Collar
+100001029,White Collar
+200001030,Other
+200001031,Other
+200001032,Blue Collar
+300001033,White Collar
+300001034,Blue Collar
+400001035,Blue Collar
+100001036,White Collar
+100001037,Other
+100001038,White Collar
+100001039,White Collar
+100001040,White Collar
+100001041,White Collar
+200001042,Blue Collar
+200001043,Blue Collar
+200001044,Other
+200001045,Other
+200001046,Blue Collar
+300001047,Other
+300001048,White Collar
+100001049,White Collar
+100001050,White Collar
+100001051,White Collar
+200001052,Blue Collar
+200001053,Blue Collar
+100001054,White Collar
+100001055,White Collar
+100001056,White Collar
+100001057,Other
+100001058,White Collar
+200001059,Blue Collar
+200001060,Other
+200001061,Other
+200001062,Other
+300001063,White Collar
+300001064,Other
+100001065,White Collar
+100001066,White Collar
+100001067,Blue Collar
+100001068,Blue Collar
+200001069,Blue Collar
+200001070,Blue Collar
+200001071,White Collar
+400001072,Other
+100001073,White Collar
+100001074,White Collar
+100001075,Blue Collar
+100001076,Blue Collar
+200001077,Other
+200001078,Blue Collar
+300001079,Blue Collar
+300001080,Blue Collar
+300001081,White Collar
+400001082,Other
+100001083,White Collar
+100001084,White Collar
+100001085,White Collar
+200001086,Blue Collar
+200001087,Other
+200001088,Blue Collar
+100001089,Other
+100001090,Other
+100001091,White Collar
+100001092,White Collar
+100001093,White Collar
+100001094,Other
+100001095,Other
+100001096,Blue Collar
+100001097,Other
+100001098,Blue Collar
+200001099,White Collar
+200001100,Other
+200001101,Blue Collar
+200001102,Other
+200001103,Other
+300001104,Blue Collar
+300001105,Blue Collar
+100001106,Blue Collar
+100001107,White Collar
+100001108,White Collar
+100001109,White Collar
+100001110,White Collar
+100001111,White Collar
+100001112,White Collar
+100001113,Other
+100001114,White Collar
+200001115,Blue Collar
+200001116,Blue Collar
+200001117,Other
+200001118,Other
+300001119,Blue Collar
+300001120,White Collar
+100001121,White Collar
+100001122,Other
+100001123,White Collar
+100001124,White Collar
+100001125,White Collar
+100001126,White Collar
+200001127,Blue Collar
+200001128,Blue Collar
+200001129,White Collar
+300001130,White Collar
+300001131,White Collar
+100001132,White Collar
+100001133,White Collar
+100001134,White Collar
+100001135,White Collar
+200001136,Other
+200001137,White Collar
+200001138,Other
+300001139,Other
+400001140,White Collar
+100001141,Other
+100001142,White Collar
+100001143,Other
+100001144,White Collar
+100001145,Blue Collar
+200001146,Other
+200001147,Blue Collar
+200001148,Blue Collar
+200001149,Blue Collar
+200001150,Blue Collar
+300001151,White Collar
+100001152,White Collar
+100001153,White Collar
+100001154,White Collar
+100001155,Blue Collar
+100001156,White Collar
+100001157,White Collar
+100001158,White Collar
+100001159,White Collar
+200001160,Blue Collar
+200001161,Other
+200001162,Blue Collar
+200001163,Blue Collar
+200001164,Blue Collar
+300001165,White Collar
+100001166,White Collar
+100001167,Other
+100001168,White Collar
+100001169,Blue Collar
+100001170,White Collar
+100001171,White Collar
+100001172,Other
+100001173,White Collar
+100001174,White Collar
+100001175,White Collar
+100001176,White Collar
+100001177,White Collar
+100001178,Blue Collar
+200001179,Other
+200001180,Other
+200001181,Blue Collar
+200001182,Other
+200001183,Blue Collar
+300001184,White Collar
+300001185,White Collar
+300001186,White Collar
+400001187,White Collar
+100001188,Other
+100001189,Other
+100001190,White Collar
+100001191,White Collar
+100001192,Other
+100001193,White Collar
+100001194,White Collar
+100001195,White Collar
+100001196,White Collar
+100001197,Blue Collar
+200001198,Other
+200001199,Blue Collar
+200001200,White Collar
+200001201,Other
+200001202,Blue Collar
+300001203,White Collar
+300001204,White Collar
+300001205,White Collar
+100001206,Blue Collar
+100001207,Blue Collar
+100001208,Other
+100001209,Blue Collar
+100001210,White Collar
+100001211,White Collar
+100001212,White Collar
+100001213,Other
+200001214,Other
+200001215,Blue Collar
+300001216,White Collar
+300001217,Other
+300001218,Other
+400001219,Other
+100001220,White Collar
+100001221,Blue Collar
+100001222,White Collar
+100001223,White Collar
+100001224,Other
+100001225,White Collar
+100001226,Blue Collar
+100001227,Blue Collar
+100001228,White Collar
+200001229,Other
+200001230,Blue Collar
+200001231,Other
+200001232,Blue Collar
+300001233,Other
+400001234,Other
+100001235,White Collar
+100001236,Blue Collar
+100001237,Blue Collar
+100001238,Other
+100001239,White Collar
+100001240,White Collar
+100001241,Blue Collar
+100001242,White Collar
+100001243,White Collar
+100001244,White Collar
+200001245,Other
+200001246,Other
+200001247,Other
+100001248,Other
+100001249,Other
+100001250,White Collar
+200001251,Blue Collar
+200001252,Blue Collar
+200001253,Other
+300001254,White Collar
+300001255,White Collar
+300001256,White Collar
+100001257,White Collar
+100001258,White Collar
+200001259,Blue Collar
+200001260,Blue Collar
+200001261,Blue Collar
+300001262,White Collar
+300001263,White Collar
+300001264,Blue Collar
+100001265,Blue Collar
+100001266,White Collar
+100001267,White Collar
+100001268,Blue Collar
+100001269,White Collar
+100001270,Other
+200001271,Other
+200001272,Other
+200001273,Other
+100001274,White Collar
+100001275,White Collar
+100001276,White Collar
+100001277,White Collar
+100001278,Blue Collar
+100001279,Blue Collar
+100001280,Other
+100001281,White Collar
+200001282,White Collar
+200001283,Blue Collar
+300001284,White Collar
+300001285,White Collar
+300001286,White Collar
+100001287,White Collar
+100001288,White Collar
+100001289,White Collar
+100001290,White Collar
+100001291,White Collar
+100001292,White Collar
+100001293,White Collar
+100001294,Other
+200001295,Other
+200001296,White Collar
+400001297,Other
+100001298,White Collar
+100001299,White Collar
+100001300,Other
+100001301,White Collar
+100001302,White Collar
+100001303,White Collar
+100001304,Blue Collar
+100001305,Blue Collar
+100001306,Blue Collar
+100001307,White Collar
+100001308,White Collar
+100001309,White Collar
+100001310,White Collar
+100001311,Blue Collar
+100001312,White Collar
+100001313,Blue Collar
+100001314,White Collar
+100001315,White Collar
+100001316,White Collar
+100001317,Blue Collar
+100001318,Blue Collar
+100001319,Blue Collar
+100001320,White Collar
+100001321,White Collar
+100001322,White Collar
+100001323,White Collar
+100001324,White Collar
+100001325,White Collar
+200001326,Other
+200001327,Other
+200001328,Blue Collar
+200001329,Other
+200001330,White Collar
+200001331,Other
+200001332,Blue Collar
+200001333,Blue Collar
+200001334,Other
+200001335,Blue Collar
+300001336,White Collar
+300001337,White Collar
+300001338,White Collar
+300001339,Other
+300001340,Other
+300001341,White Collar
+400001342,Other
+400001343,Other
+400001344,Other
+100001345,White Collar
+100001346,White Collar
+100001347,White Collar
+100001348,White Collar
+100001349,White Collar
+200001350,Blue Collar
+200001351,Blue Collar
+200001352,Other
+300001353,White Collar
+300001354,White Collar
+400001355,Other
+100001356,White Collar
+100001357,White Collar
+100001358,Other
+100001359,White Collar
+100001360,White Collar
+200001361,Other
+100001362,Blue Collar
+100001363,White Collar
+100001364,Blue Collar
+100001365,White Collar
+100001366,Blue Collar
+100001367,Blue Collar
+100001368,White Collar
+100001369,White Collar
+100001370,Other
+100001371,White Collar
+100001372,White Collar
+100001373,White Collar
+200001374,Blue Collar
+200001375,Other
+200001376,Other
+200001377,Blue Collar
+200001378,Blue Collar
+200001379,Blue Collar
+400001380,White Collar
+100001381,Blue Collar
+100001382,White Collar
+100001383,White Collar
+100001384,White Collar
+100001385,White Collar
+100001386,White Collar
+100001387,White Collar
+100001388,White Collar
+200001389,Blue Collar
+200001390,Blue Collar
+200001391,Blue Collar
+300001392,White Collar
+400001393,Blue Collar
+100001394,Other
+100001395,White Collar
+100001396,Blue Collar
+100001397,White Collar
+100001398,White Collar
+100001399,White Collar
+100001400,White Collar
+100001401,Other
+200001402,Blue Collar
+200001403,Blue Collar
+200001404,Other
+200001405,Blue Collar
+200001406,Other
+200001407,Other
+300001408,White Collar
+300001409,White Collar
+300001410,White Collar
+300001411,White Collar
+300001412,White Collar
+400001413,Other
+100001414,Other
+100001415,White Collar
+100001416,White Collar
+100001417,Blue Collar
+100001418,White Collar
+100001419,White Collar
+100001420,White Collar
+100001421,White Collar
+100001422,Other
+200001423,Other
+200001424,Blue Collar
+300001425,White Collar
+400001426,Other
+100001427,White Collar
+100001428,White Collar
+100001429,White Collar
+100001430,Other
+100001431,White Collar
+100001432,White Collar
+100001433,White Collar
+100001434,Blue Collar
+200001435,Blue Collar
+200001436,Blue Collar
+200001437,Other
+200001438,White Collar
+200001439,Other
+200001440,Blue Collar
+200001441,Other
+300001442,White Collar
+300001443,White Collar
+300001444,Blue Collar
+100001445,Other
+100001446,White Collar
+100001447,White Collar
+100001448,Blue Collar
+100001449,Other
+200001450,Other
+200001451,Other
+200001452,Blue Collar
+200001453,Other
+200001454,Other
+200001455,Blue Collar
+300001456,White Collar
+400001457,White Collar
+100001458,White Collar
+100001459,White Collar
+100001460,White Collar
+100001461,White Collar
+100001462,White Collar
+200001463,Other
+200001464,Other
+300001465,White Collar
+300001466,Blue Collar
+400001467,Blue Collar
+400001468,White Collar
+100001469,Blue Collar
+100001470,Blue Collar
+100001471,White Collar
+100001472,Blue Collar
+100001473,Other
+100001474,Blue Collar
+100001475,White Collar
+200001476,Blue Collar
+200001477,Blue Collar
+200001478,Blue Collar
+200001479,Other
+300001480,Blue Collar
+300001481,White Collar
+100001482,White Collar
+100001483,White Collar
+100001484,White Collar
+100001485,White Collar
+200001486,Other
+200001487,Other
+200001488,Other
+200001489,White Collar
+300001490,White Collar
+100001491,Other
+100001492,White Collar
+100001493,Blue Collar
+100001494,White Collar
+100001495,White Collar
+100001496,White Collar
+100001497,White Collar
+100001498,White Collar
+200001499,Blue Collar
+200001500,Blue Collar
+200001501,Blue Collar
+200001502,Blue Collar
+400001503,Blue Collar
+100001504,Other
+100001505,White Collar
+100001506,White Collar
+100001507,White Collar
+100001508,White Collar
+100001509,White Collar
+200001510,Blue Collar
+200001511,Other
+200001512,Blue Collar
+300001513,Blue Collar
+100001514,Blue Collar
+100001515,Other
+100001516,White Collar
+200001517,Other
+200001518,Other
+200001519,Other
+300001520,Other
+400001521,Other
+400001522,Other
+400001523,Blue Collar
+100001524,White Collar
+100001525,White Collar
+100001526,Other
+100001527,White Collar
+300001528,White Collar
+300001529,Other
+300001530,Other
+400001531,Blue Collar
+100001532,Blue Collar
+100001533,White Collar
+100001534,Blue Collar
+100001535,White Collar
+100001536,White Collar
+100001537,White Collar
+300001538,White Collar
+300001539,White Collar
+100001540,Other
+100001541,Other
+100001542,Other
+100001543,White Collar
+100001544,White Collar
+100001545,White Collar
+100001546,White Collar
+100001547,Other
+100001548,Blue Collar
+200001549,Blue Collar
+200001550,Blue Collar
+400001551,Other
+100001552,Blue Collar
+100001553,Blue Collar
+100001554,White Collar
+100001555,Other
+100001556,White Collar
+100001557,White Collar
+100001558,White Collar
+100001559,White Collar
+100001560,White Collar
+200001561,Blue Collar
+200001562,Other
+300001563,White Collar
+100001564,White Collar
+100001565,White Collar
+100001566,White Collar
+200001567,Blue Collar
+200001568,Blue Collar
+200001569,Other
+200001570,Blue Collar
+200001571,Blue Collar
+200001572,Blue Collar
+200001573,White Collar
+200001574,Other
+300001575,White Collar
+300001576,White Collar
+300001577,White Collar
+400001578,Other
+100001579,Blue Collar
+100001580,White Collar
+100001581,Other
+100001582,White Collar
+100001583,White Collar
+100001584,White Collar
+200001585,Other
+200001586,Other
+200001587,Other
+300001588,Blue Collar
+300001589,Blue Collar
+300001590,White Collar
+300001591,White Collar
+100001592,White Collar
+100001593,White Collar
+100001594,White Collar
+100001595,Blue Collar
+100001596,White Collar
+200001597,Other
+200001598,Blue Collar
+300001599,White Collar
+400001600,Blue Collar
+100001601,White Collar
+100001602,Other
+100001603,White Collar
+100001604,Other
+100001605,Other
+100001606,White Collar
+100001607,Blue Collar
+100001608,White Collar
+200001609,Other
+200001610,White Collar
+200001611,Blue Collar
+200001612,Other
+200001613,Blue Collar
+300001614,Other
+100001615,Other
+100001616,White Collar
+100001617,White Collar
+100001618,Other
+100001619,White Collar
+100001620,Blue Collar
+100001621,White Collar
+200001622,Other
+200001623,Blue Collar
+200001624,Other
+200001625,Other
+300001626,White Collar
+300001627,White Collar
+300001628,Other
+300001629,Other
+400001630,Other
+100001631,White Collar
+100001632,White Collar
+100001633,White Collar
+100001634,White Collar
+100001635,White Collar
+100001636,Other
+100001637,White Collar
+200001638,Other
+200001639,White Collar
+200001640,Blue Collar
+300001641,White Collar
+300001642,White Collar
+100001643,White Collar
+100001644,Other
+100001645,White Collar
+100001646,White Collar
+100001647,Blue Collar
+200001648,Other
+200001649,Blue Collar
+200001650,Other
+300001651,White Collar
+300001652,Other
+100001653,Blue Collar
+100001654,White Collar
+100001655,White Collar
+100001656,White Collar
+100001657,White Collar
+100001658,White Collar
+100001659,Blue Collar
+100001660,White Collar
+100001661,White Collar
+200001662,Blue Collar
+200001663,Other
+200001664,Other
+200001665,Other
+400001666,White Collar
+100001667,White Collar
+200001668,Blue Collar
+200001669,Other
+200001670,Other
+400001671,Blue Collar
+100001672,White Collar
+100001673,White Collar
+100001674,White Collar
+100001675,Other
+100001676,Blue Collar
+200001677,Other
+200001678,Other
+200001679,Blue Collar
+300001680,White Collar
+300001681,White Collar
+400001682,Other
+400001683,Other
+100001684,White Collar
+100001685,White Collar
+100001686,Other
+100001687,White Collar
+100001688,White Collar
+100001689,White Collar
+100001690,White Collar
+100001691,White Collar
+200001692,Blue Collar
+200001693,Blue Collar
+200001694,Other
+200001695,Other
+300001696,White Collar
+300001697,Other
+300001698,Blue Collar
+300001699,Other
+300001700,Blue Collar
+400001701,White Collar
+100001702,Blue Collar
+100001703,Blue Collar
+100001704,White Collar
+100001705,Other
+100001706,White Collar
+100001707,White Collar
+200001708,Other
+200001709,Other
+200001710,White Collar
+200001711,White Collar
+200001712,Blue Collar
+100001713,Blue Collar
+100001714,White Collar
+100001715,Blue Collar
+100001716,White Collar
+100001717,White Collar
+100001718,White Collar
+100001719,Blue Collar
+100001720,Blue Collar
+100001721,Blue Collar
+100001722,White Collar
+100001723,White Collar
+100001724,Blue Collar
+100001725,White Collar
+100001726,Other
+100001727,White Collar
+100001728,White Collar
+100001729,Other
+100001730,Other
+100001731,White Collar
+100001732,White Collar
+200001733,Other
+200001734,Other
+200001735,Blue Collar
+200001736,Other
+200001737,Blue Collar
+200001738,Blue Collar
+200001739,Blue Collar
+300001740,White Collar
+300001741,White Collar
+300001742,White Collar
+300001743,White Collar
+300001744,White Collar
+300001745,Blue Collar
+300001746,White Collar
+300001747,White Collar
+300001748,Other
+300001749,White Collar
+300001750,White Collar
+300001751,White Collar
+400001752,Blue Collar
+400001753,Other
+400001754,White Collar
+100001755,Other
+100001756,Other
+100001757,White Collar
+100001758,White Collar
+100001759,White Collar
+100001760,Other
+100001761,Blue Collar
+200001762,Blue Collar
+200001763,Other
+200001764,Blue Collar
+200001765,Other
+200001766,Blue Collar
+300001767,Blue Collar
+400001768,Other
+400001769,Other
+100001770,Other
+100001771,White Collar
+100001772,Other
+100001773,White Collar
+100001774,White Collar
+200001775,Blue Collar
+200001776,Blue Collar
+200001777,White Collar
+200001778,Other
+300001779,White Collar
+300001780,White Collar
+400001781,Other
+100001782,Other
+100001783,White Collar
+100001784,White Collar
+100001785,Other
+100001786,White Collar
+100001787,White Collar
+100001788,Blue Collar
+100001789,Other
+100001790,White Collar
+200001791,Blue Collar
+200001792,Other
+300001793,White Collar
+400001794,Blue Collar
+400001795,White Collar
+100001796,Blue Collar
+100001797,White Collar
+100001798,White Collar
+100001799,White Collar
+100001800,Blue Collar
+100001801,White Collar
+100001802,Blue Collar
+100001803,White Collar
+100001804,White Collar
+100001805,Other
+100001806,Other
+200001807,Other
+200001808,White Collar
+200001809,Other
+200001810,Other
+200001811,Other
+300001812,White Collar
+300001813,White Collar
+400001814,White Collar
+400001815,Blue Collar
+400001816,Other
+400001817,White Collar
+400001818,White Collar
+100001819,Other
+100001820,White Collar
+100001821,White Collar
+100001822,Other
+100001823,White Collar
+100001824,Other
+100001825,White Collar
+200001826,Other
+200001827,Blue Collar
+200001828,Blue Collar
+200001829,Other
+300001830,White Collar
+100001831,White Collar
+100001832,Other
+100001833,White Collar
+100001834,White Collar
+100001835,White Collar
+200001836,Other
+200001837,White Collar
+200001838,Other
+300001839,White Collar
+300001840,White Collar
+300001841,Blue Collar
+300001842,White Collar
+300001843,Other
+300001844,Other
+400001845,Other
+100001846,White Collar
+100001847,White Collar
+100001848,White Collar
+100001849,Other
+100001850,White Collar
+100001851,White Collar
+100001852,White Collar
+100001853,White Collar
+100001854,White Collar
+300001855,Other
+300001856,White Collar
+300001857,White Collar
+300001858,Other
+100001859,White Collar
+100001860,White Collar
+100001861,Other
+100001862,White Collar
+100001863,White Collar
+100001864,White Collar
+100001865,White Collar
+200001866,Blue Collar
+200001867,White Collar
+200001868,Other
+200001869,Other
+200001870,Blue Collar
+200001871,Other
+300001872,Blue Collar
+300001873,Other
+300001874,White Collar
+100001875,Blue Collar
+100001876,White Collar
+100001877,White Collar
+100001878,Blue Collar
+100001879,Blue Collar
+100001880,White Collar
+100001881,Other
+100001882,White Collar
+100001883,White Collar
+200001884,Other
+300001885,White Collar
+300001886,White Collar
+100001887,White Collar
+100001888,White Collar
+100001889,White Collar
+200001890,Other
+200001891,Blue Collar
+200001892,Blue Collar
+300001893,Blue Collar
+100001894,White Collar
+100001895,Blue Collar
+100001896,White Collar
+100001897,White Collar
+100001898,White Collar
+100001899,White Collar
+200001900,Other
+200001901,Other
+200001902,Blue Collar
+200001903,Blue Collar
+200001904,Other
+200001905,Other
+400001906,Other
+100001907,White Collar
+100001908,White Collar
+100001909,White Collar
+100001910,White Collar
+200001911,Other
+200001912,Other
+300001913,White Collar
+100001914,White Collar
+100001915,Other
+100001916,White Collar
+100001917,Blue Collar
+100001918,White Collar
+100001919,White Collar
+100001920,Blue Collar
+100001921,White Collar
+100001922,Blue Collar
+100001923,White Collar
+200001924,Other
+300001925,Other
+300001926,White Collar
+400001927,Other
+100001928,White Collar
+100001929,White Collar
+100001930,White Collar
+100001931,White Collar
+100001932,Other
+100001933,White Collar
+200001934,Blue Collar
+200001935,Other
+200001936,White Collar
+200001937,Other
+200001938,Other
+400001939,White Collar
+100001940,White Collar
+100001941,White Collar
+100001942,White Collar
+100001943,White Collar
+100001944,White Collar
+100001945,Blue Collar
+100001946,Blue Collar
+100001947,White Collar
+100001948,White Collar
+100001949,White Collar
+200001950,Blue Collar
+200001951,Blue Collar
+300001952,White Collar
+300001953,White Collar
+300001954,White Collar
+300001955,Blue Collar
+300001956,White Collar
+400001957,Other
+100001958,Blue Collar
+100001959,Other
+100001960,White Collar
+100001961,Other
+100001962,White Collar
+200001963,Other
+200001964,Blue Collar
+100001965,White Collar
+100001966,Blue Collar
+100001967,Blue Collar
+100001968,White Collar
+100001969,White Collar
+100001970,Blue Collar
+100001971,White Collar
+100001972,White Collar
+100001973,White Collar
+200001974,Other
+200001975,Blue Collar
+200001976,Other
+200001977,Other
+300001978,White Collar
+300001979,Blue Collar
+400001980,Blue Collar
+400001981,White Collar
+100001982,Blue Collar
+100001983,White Collar
+100001984,White Collar
+100001985,White Collar
+100001986,White Collar
+100001987,Other
+100001988,White Collar
+200001989,Other
+200001990,Blue Collar
+200001991,White Collar
+200001992,Other
+200001993,Other
+200001994,Other
+200001995,Blue Collar
+300001996,White Collar
+100001997,White Collar
+100001998,White Collar
+100001999,White Collar
+100002000,White Collar
+100002001,White Collar
+100002002,White Collar
+100002003,White Collar
+100002004,White Collar
+100002005,White Collar
+100002006,Other
+200002007,Other
+200002008,Other
+200002009,Other
+200002010,Other
+200002011,Other
+300002012,Blue Collar
+400002013,White Collar
+400002014,Other
+400002015,Other
+400002016,Blue Collar
+100002017,White Collar
+100002018,Blue Collar
+100002019,Blue Collar
+100002020,White Collar
+100002021,White Collar
+100002022,White Collar
+100002023,White Collar
+200002024,Blue Collar
+200002025,White Collar
+200002026,Other
+200002027,Blue Collar
+200002028,Other
+200002029,Blue Collar
+200002030,Blue Collar
+300002031,White Collar
+300002032,Blue Collar
+300002033,White Collar
+100002034,White Collar
+100002035,White Collar
+100002036,Other
+100002037,White Collar
+100002038,Other
+200002039,Blue Collar
+200002040,White Collar
+200002041,Blue Collar
+200002042,Other
+200002043,Blue Collar
+300002044,Other
+300002045,White Collar
+400002046,Blue Collar
+400002047,Blue Collar
+100002048,White Collar
+100002049,White Collar
+100002050,White Collar
+100002051,White Collar
+100002052,Blue Collar
+100002053,White Collar
+100002054,White Collar
+100002055,White Collar
+200002056,Other
+200002057,Blue Collar
+200002058,Blue Collar
+200002059,Blue Collar
+300002060,White Collar
+100002061,Blue Collar
+100002062,White Collar
+100002063,White Collar
+100002064,Other
+100002065,Other
+100002066,White Collar
+100002067,White Collar
+200002068,Other
+200002069,Blue Collar
+200002070,Blue Collar
+200002071,Other
+200002072,Other
+300002073,White Collar
+300002074,White Collar
+400002075,White Collar
+100002076,White Collar
+100002077,White Collar
+100002078,White Collar
+100002079,White Collar
+100002080,White Collar
+100002081,White Collar
+100002082,White Collar
+100002083,White Collar
+100002084,Other
+100002085,Other
+100002086,White Collar
+100002087,White Collar
+100002088,Blue Collar
+100002089,White Collar
+200002090,Blue Collar
+200002091,Other
+200002092,Blue Collar
+200002093,Other
+200002094,Other
+100002095,White Collar
+100002096,White Collar
+100002097,White Collar
+100002098,White Collar
+200002099,Other
+200002100,Other
+200002101,Other
+200002102,Other
+200002103,Other
+200002104,White Collar
+200002105,Blue Collar
+300002106,White Collar
+300002107,Blue Collar
+400002108,Other
+400002109,White Collar
+100002110,Other
+100002111,White Collar
+100002112,Blue Collar
+100002113,White Collar
+100002114,White Collar
+100002115,White Collar
+100002116,Blue Collar
+100002117,White Collar
+100002118,Other
+100002119,White Collar
+100002120,Other
+100002121,White Collar
+200002122,Other
+200002123,Blue Collar
+200002124,Other
+200002125,Other
+200002126,Blue Collar
+300002127,Other
+300002128,Other
+300002129,White Collar
+400002130,Other
+100002131,Blue Collar
+100002132,White Collar
+100002133,White Collar
+100002134,Blue Collar
+100002135,Blue Collar
+100002136,White Collar
+100002137,Blue Collar
+100002138,White Collar
+100002139,White Collar
+100002140,Other
+200002141,White Collar
+200002142,Blue Collar
+200002143,Other
+200002144,Blue Collar
+200002145,Blue Collar
+200002146,Blue Collar
+200002147,Blue Collar
+200002148,Other
+200002149,Other
+300002150,Other
+400002151,White Collar
+400002152,Other
+400002153,Other
+100002154,White Collar
+100002155,White Collar
+100002156,White Collar
+100002157,Other
+200002158,Other
+200002159,Blue Collar
+200002160,Other
+200002161,Blue Collar
+300002162,White Collar
+300002163,White Collar
+300002164,White Collar
+400002165,Other
+400002166,Blue Collar
+100002167,White Collar
+100002168,White Collar
+100002169,White Collar
+100002170,White Collar
+100002171,White Collar
+100002172,White Collar
+100002173,White Collar
+100002174,White Collar
+100002175,White Collar
+200002176,Blue Collar
+200002177,Blue Collar
+300002178,White Collar
+300002179,Blue Collar
+400002180,White Collar
+100002181,White Collar
+100002182,White Collar
+100002183,White Collar
+100002184,White Collar
+100002185,White Collar
+200002186,Blue Collar
+200002187,Other
+300002188,Blue Collar
+300002189,White Collar
+100002190,White Collar
+100002191,White Collar
+100002192,Other
+100002193,Blue Collar
+100002194,Blue Collar
+100002195,White Collar
+100002196,Blue Collar
+100002197,White Collar
+100002198,White Collar
+100002199,Other
+100002200,White Collar
+100002201,White Collar
+200002202,Blue Collar
+200002203,Blue Collar
+200002204,White Collar
+200002205,White Collar
+200002206,Other
+200002207,Blue Collar
+200002208,Blue Collar
+300002209,Blue Collar
+300002210,White Collar
+400002211,Other
+400002212,Other
+400002213,Other
+100002214,Other
+100002215,White Collar
+100002216,White Collar
+100002217,White Collar
+100002218,White Collar
+100002219,Blue Collar
+100002220,White Collar
+100002221,White Collar
+100002222,White Collar
+100002223,White Collar
+100002224,White Collar
+100002225,White Collar
+100002226,White Collar
+100002227,White Collar
+100002228,White Collar
+100002229,Blue Collar
+100002230,White Collar
+100002231,White Collar
+100002232,Other
+100002233,Blue Collar
+100002234,White Collar
+100002235,White Collar
+100002236,White Collar
+100002237,White Collar
+100002238,White Collar
+100002239,White Collar
+100002240,White Collar
+100002241,White Collar
+100002242,White Collar
+100002243,White Collar
+100002244,White Collar
+100002245,White Collar
+200002246,Blue Collar
+200002247,Other
+200002248,Other
+200002249,Other
+200002250,Other
+200002251,Other
+200002252,Blue Collar
+200002253,Other
+200002254,Blue Collar
+200002255,Blue Collar
+200002256,Other
+200002257,Other
+200002258,Other
+200002259,Blue Collar
+200002260,Other
+200002261,Other
+200002262,Other
+200002263,Blue Collar
+200002264,Other
+300002265,White Collar
+300002266,Other
+300002267,Other
+300002268,White Collar
+300002269,White Collar
+300002270,White Collar
+300002271,Other
+300002272,Blue Collar
+300002273,Blue Collar
+300002274,Other
+300002275,White Collar
+400002276,White Collar
+400002277,Other
+400002278,Other
+400002279,Other
+400002280,Blue Collar
+100002281,White Collar
+100002282,White Collar
+100002283,White Collar
+100002284,Blue Collar
+100002285,Other
+100002286,White Collar
+100002287,Blue Collar
+100002288,Blue Collar
+200002289,Blue Collar
+200002290,White Collar
+200002291,Blue Collar
+200002292,Other
+200002293,Blue Collar
+200002294,Blue Collar
+200002295,Other
+200002296,Blue Collar
+300002297,White Collar
+300002298,Blue Collar
+400002299,Blue Collar
+100002300,White Collar
+100002301,White Collar
+100002302,Other
+100002303,Blue Collar
+100002304,White Collar
+100002305,Other
+100002306,White Collar
+100002307,White Collar
+200002308,Blue Collar
+200002309,Other
+200002310,White Collar
+200002311,Blue Collar
+200002312,Blue Collar
+200002313,Other
+300002314,White Collar
+300002315,Blue Collar
+300002316,White Collar
+400002317,Blue Collar
+400002318,Other
+400002319,White Collar
+100002320,White Collar
+100002321,White Collar
+100002322,White Collar
+100002323,Blue Collar
+100002324,Other
+100002325,Other
+100002326,White Collar
+100002327,White Collar
+100002328,Blue Collar
+200002329,Other
+200002330,Other
+200002331,Blue Collar
+200002332,Blue Collar
+200002333,Blue Collar
+300002334,Blue Collar
+300002335,White Collar
+300002336,White Collar
+400002337,White Collar
+100002338,Blue Collar
+100002339,Other
+100002340,White Collar
+100002341,Other
+100002342,Blue Collar
+100002343,White Collar
+100002344,White Collar
+100002345,White Collar
+100002346,White Collar
+100002347,White Collar
+100002348,White Collar
+200002349,Blue Collar
+200002350,Blue Collar
+200002351,Other
+200002352,Blue Collar
+200002353,Blue Collar
+200002354,Blue Collar
+200002355,Other
+200002356,Other
+200002357,Other
+200002358,Blue Collar
+300002359,Other
+400002360,Other
+400002361,White Collar
+100002362,White Collar
+100002363,White Collar
+100002364,White Collar
+100002365,Other
+100002366,White Collar
+100002367,Blue Collar
+100002368,White Collar
+100002369,White Collar
+100002370,White Collar
+100002371,White Collar
+100002372,White Collar
+100002373,Blue Collar
+200002374,Blue Collar
+200002375,Other
+200002376,Blue Collar
+200002377,White Collar
+200002378,Other
+200002379,Blue Collar
+300002380,White Collar
+400002381,Other
+400002382,Other
+400002383,White Collar
+100002384,White Collar
+100002385,White Collar
+100002386,White Collar
+100002387,White Collar
+100002388,Blue Collar
+100002389,Other
+100002390,White Collar
+100002391,White Collar
+100002392,Other
+200002393,Blue Collar
+200002394,Other
+200002395,Other
+200002396,Blue Collar
+200002397,Blue Collar
+200002398,Blue Collar
+200002399,Other
+300002400,Blue Collar
+400002401,Other
+100002402,White Collar
+100002403,White Collar
+100002404,White Collar
+100002405,White Collar
+100002406,White Collar
+100002407,Blue Collar
+100002408,White Collar
+200002409,Blue Collar
+200002410,Blue Collar
+200002411,Other
+200002412,Blue Collar
+200002413,Other
+100002414,White Collar
+100002415,Other
+100002416,White Collar
+100002417,White Collar
+100002418,Other
+100002419,White Collar
+100002420,White Collar
+100002421,White Collar
+100002422,White Collar
+100002423,White Collar
+100002424,Blue Collar
+100002425,Blue Collar
+200002426,Blue Collar
+200002427,Other
+300002428,White Collar
+100002429,White Collar
+100002430,White Collar
+100002431,White Collar
+100002432,White Collar
+100002433,White Collar
+100002434,White Collar
+100002435,White Collar
+100002436,White Collar
+100002437,White Collar
+100002438,White Collar
+100002439,White Collar
+100002440,White Collar
+200002441,Blue Collar
+200002442,Blue Collar
+200002443,Blue Collar
+200002444,Other
+200002445,Other
+200002446,Blue Collar
+200002447,Blue Collar
+300002448,Blue Collar
+100002449,Blue Collar
+100002450,Other
+100002451,White Collar
+100002452,Blue Collar
+100002453,White Collar
+100002454,White Collar
+100002455,White Collar
+100002456,Other
+100002457,Blue Collar
+100002458,White Collar
+100002459,White Collar
+100002460,White Collar
+100002461,White Collar
+200002462,White Collar
+200002463,Other
+100002464,White Collar
+100002465,White Collar
+100002466,Blue Collar
+100002467,Blue Collar
+100002468,White Collar
+100002469,White Collar
+200002470,Other
+300002471,Other
+400002472,Other
+100002473,Blue Collar
+100002474,Blue Collar
+100002475,White Collar
+100002476,White Collar
+100002477,White Collar
+100002478,Other
+100002479,White Collar
+100002480,Blue Collar
+100002481,Blue Collar
+100002482,White Collar
+200002483,Other
+200002484,Blue Collar
+200002485,Other
+200002486,Other
+200002487,Blue Collar
+300002488,White Collar
+300002489,White Collar
+300002490,Blue Collar
+300002491,Blue Collar
+300002492,White Collar
+100002493,Blue Collar
+100002494,White Collar
+100002495,White Collar
+100002496,White Collar
+100002497,White Collar
+100002498,White Collar
+200002499,Blue Collar
+200002500,Blue Collar
+200002501,Blue Collar
+300002502,White Collar
+100002503,Blue Collar
+100002504,Other
+100002505,Blue Collar
+100002506,White Collar
+100002507,White Collar
+100002508,White Collar
+100002509,Blue Collar
+100002510,Blue Collar
+100002511,Other
+100002512,White Collar
+100002513,White Collar
+200002514,Blue Collar
+200002515,Other
+200002516,Blue Collar
+200002517,Other
+200002518,Blue Collar
+200002519,Blue Collar
+300002520,White Collar
+400002521,Other
+400002522,Blue Collar
+100002523,Blue Collar
+100002524,White Collar
+100002525,Blue Collar
+100002526,White Collar
+100002527,White Collar
+100002528,White Collar
+100002529,White Collar
+100002530,White Collar
+100002531,White Collar
+100002532,White Collar
+200002533,Blue Collar
+200002534,Blue Collar
+200002535,Blue Collar
+200002536,Blue Collar
+300002537,Other
+300002538,White Collar
+300002539,Other
+400002540,Other
+400002541,White Collar
+100002542,White Collar
+100002543,White Collar
+100002544,Blue Collar
+100002545,White Collar
+100002546,Other
+100002547,White Collar
+200002548,Blue Collar
+300002549,White Collar
+400002550,Other
+400002551,Other
+100002552,White Collar
+100002553,White Collar
+100002554,Blue Collar
+100002555,White Collar
+100002556,White Collar
+100002557,White Collar
+100002558,White Collar
+100002559,White Collar
+100002560,White Collar
+100002561,White Collar
+100002562,White Collar
+200002563,White Collar
+200002564,Other
+200002565,Blue Collar
+300002566,Blue Collar
+300002567,White Collar
+300002568,White Collar
+400002569,Blue Collar
+100002570,White Collar
+100002571,White Collar
+100002572,White Collar
+100002573,White Collar
+100002574,White Collar
+100002575,White Collar
+100002576,Blue Collar
+100002577,White Collar
+100002578,White Collar
+200002579,Blue Collar
+200002580,Other
+200002581,Blue Collar
+300002582,White Collar
+300002583,White Collar
+300002584,White Collar
+400002585,Blue Collar
+100002586,White Collar
+100002587,White Collar
+100002588,White Collar
+100002589,Blue Collar
+100002590,White Collar
+100002591,Blue Collar
+100002592,White Collar
+100002593,White Collar
+100002594,White Collar
+100002595,White Collar
+100002596,White Collar
+200002597,Other
+200002598,Other
+200002599,White Collar
+200002600,Other
+200002601,Blue Collar
+200002602,Blue Collar
+300002603,White Collar
+300002604,Other
+400002605,Other
+100002606,White Collar
+100002607,White Collar
+100002608,White Collar
+100002609,Other
+100002610,White Collar
+100002611,Blue Collar
+100002612,White Collar
+200002613,Blue Collar
+200002614,Blue Collar
+300002615,Blue Collar
+300002616,Blue Collar
+300002617,White Collar
+400002618,Other
+100002619,Other
+100002620,Other
+100002621,Blue Collar
+100002622,Other
+100002623,White Collar
+100002624,Blue Collar
+100002625,White Collar
+100002626,White Collar
+100002627,White Collar
+100002628,White Collar
+100002629,White Collar
+200002630,White Collar
+200002631,Blue Collar
+200002632,Blue Collar
+200002633,Blue Collar
+200002634,Other
+300002635,Other
+300002636,White Collar
+300002637,Blue Collar
+400002638,White Collar
+100002639,White Collar
+100002640,Blue Collar
+100002641,White Collar
+100002642,Other
+100002643,White Collar
+100002644,White Collar
+100002645,White Collar
+100002646,White Collar
+100002647,White Collar
+200002648,Blue Collar
+200002649,Blue Collar
+200002650,Blue Collar
+200002651,Other
+200002652,Other
+200002653,Other
+300002654,White Collar
+300002655,White Collar
+100002656,Blue Collar
+100002657,White Collar
+100002658,White Collar
+100002659,White Collar
+100002660,Other
+100002661,White Collar
+100002662,Other
+100002663,White Collar
+200002664,Other
+200002665,Other
+200002666,Blue Collar
+200002667,Blue Collar
+200002668,Other
+300002669,White Collar
+300002670,White Collar
+100002671,Blue Collar
+100002672,White Collar
+100002673,White Collar
+100002674,White Collar
+100002675,Other
+100002676,White Collar
+100002677,White Collar
+100002678,White Collar
+100002679,Blue Collar
+100002680,White Collar
+100002681,White Collar
+100002682,White Collar
+100002683,White Collar
+100002684,Other
+200002685,Other
+200002686,Blue Collar
+200002687,Blue Collar
+200002688,Other
+300002689,Blue Collar
+300002690,Other
+400002691,Other
+100002692,Other
+100002693,White Collar
+100002694,White Collar
+200002695,Blue Collar
+200002696,Blue Collar
+200002697,Other
+400002698,White Collar
+400002699,White Collar
+100002700,White Collar
+100002701,Other
+100002702,White Collar
+100002703,White Collar
+100002704,Blue Collar
+100002705,Blue Collar
+100002706,Other
+100002707,Other
+100002708,White Collar
+200002709,Other
+200002710,Blue Collar
+200002711,Other
+200002712,Blue Collar
+300002713,Other
+300002714,Blue Collar
+300002715,White Collar
+400002716,White Collar
+400002717,Blue Collar
+100002718,White Collar
+100002719,Other
+100002720,Blue Collar
+100002721,White Collar
+100002722,Other
+100002723,Other
+100002724,White Collar
+200002725,Blue Collar
+300002726,White Collar
+300002727,Blue Collar
+300002728,Blue Collar
+300002729,White Collar
+300002730,White Collar
+100002731,Other
+100002732,White Collar
+100002733,White Collar
+100002734,White Collar
+100002735,Blue Collar
+100002736,White Collar
+100002737,White Collar
+100002738,White Collar
+100002739,White Collar
+100002740,White Collar
+100002741,Other
+100002742,White Collar
+100002743,White Collar
+200002744,Other
+200002745,Blue Collar
+300002746,White Collar
+300002747,White Collar
+100002748,White Collar
+100002749,White Collar
+100002750,White Collar
+100002751,Blue Collar
+200002752,Other
+200002753,Blue Collar
+200002754,Blue Collar
+200002755,Other
+300002756,White Collar
+300002757,Other
+300002758,Other
+300002759,White Collar
+300002760,Other
+300002761,White Collar
+400002762,White Collar
+100002763,White Collar
+100002764,Blue Collar
+100002765,Blue Collar
+100002766,Other
+100002767,White Collar
+100002768,Other
+100002769,White Collar
+100002770,White Collar
+100002771,White Collar
+100002772,Other
+200002773,Blue Collar
+200002774,Blue Collar
+200002775,Blue Collar
+200002776,Blue Collar
+200002777,Blue Collar
+200002778,Blue Collar
+300002779,Blue Collar
+300002780,White Collar
+100002781,White Collar
+100002782,Other
+100002783,White Collar
+100002784,White Collar
+100002785,Blue Collar
+100002786,White Collar
+100002787,White Collar
+200002788,Blue Collar
+200002789,Blue Collar
+200002790,Other
+200002791,Other
+300002792,White Collar
+300002793,White Collar
+100002794,Blue Collar
+100002795,White Collar
+100002796,Blue Collar
+100002797,White Collar
+100002798,White Collar
+100002799,Other
+100002800,White Collar
+100002801,White Collar
+100002802,White Collar
+100002803,White Collar
+100002804,White Collar
+100002805,White Collar
+100002806,White Collar
+100002807,Blue Collar
+100002808,Other
+100002809,Blue Collar
+100002810,White Collar
+100002811,White Collar
+100002812,White Collar
+100002813,Blue Collar
+100002814,White Collar
+100002815,White Collar
+100002816,White Collar
+100002817,White Collar
+100002818,White Collar
+100002819,White Collar
+100002820,White Collar
+100002821,White Collar
+100002822,White Collar
+100002823,Other
+100002824,White Collar
+100002825,Other
+100002826,White Collar
+100002827,White Collar
+100002828,Blue Collar
+200002829,Blue Collar
+200002830,Other
+200002831,Other
+200002832,Other
+200002833,Other
+200002834,Other
+200002835,Other
+200002836,Blue Collar
+200002837,Other
+200002838,Blue Collar
+200002839,Blue Collar
+300002840,Blue Collar
+300002841,White Collar
+300002842,Blue Collar
+300002843,Blue Collar
+400002844,Blue Collar
+400002845,Other
+400002846,White Collar
+100002847,White Collar
+100002848,White Collar
+100002849,White Collar
+100002850,White Collar
+100002851,White Collar
+100002852,Blue Collar
+200002853,Blue Collar
+300002854,White Collar
+300002855,White Collar
+300002856,White Collar
+300002857,White Collar
+400002858,White Collar
+100002859,Other
+100002860,Other
+100002861,White Collar
+100002862,White Collar
+100002863,White Collar
+100002864,White Collar
+100002865,Other
+100002866,Blue Collar
+100002867,Other
+100002868,White Collar
+100002869,White Collar
+100002870,White Collar
+100002871,Blue Collar
+200002872,Other
+200002873,Blue Collar
+300002874,White Collar
+100002875,Other
+100002876,Other
+100002877,White Collar
+100002878,White Collar
+100002879,White Collar
+100002880,White Collar
+100002881,White Collar
+100002882,White Collar
+100002883,White Collar
+100002884,White Collar
+100002885,Other
+100002886,White Collar
+100002887,White Collar
+100002888,White Collar
+100002889,White Collar
+100002890,White Collar
+100002891,White Collar
+100002892,Other
+100002893,Other
+100002894,Other
+200002895,Blue Collar
+200002896,Other
+200002897,Blue Collar
+200002898,Other
+200002899,Other
+200002900,Other
+200002901,Blue Collar
+200002902,Blue Collar
+200002903,Other
+300002904,White Collar
+300002905,White Collar
+300002906,Blue Collar
+400002907,Blue Collar
+400002908,Other
+100002909,White Collar
+100002910,White Collar
+100002911,Blue Collar
+100002912,White Collar
+100002913,White Collar
+100002914,Other
+100002915,White Collar
+100002916,Other
+100002917,White Collar
+100002918,White Collar
+100002919,White Collar
+200002920,Blue Collar
+200002921,Other
+200002922,Other
+200002923,Other
+200002924,Blue Collar
+200002925,Blue Collar
+200002926,Blue Collar
+300002927,White Collar
+400002928,Blue Collar
+100002929,White Collar
+100002930,Other
+100002931,White Collar
+100002932,Other
+100002933,White Collar
+100002934,Blue Collar
+100002935,White Collar
+100002936,White Collar
+100002937,White Collar
+100002938,Other
+100002939,White Collar
+100002940,Other
+100002941,White Collar
+200002942,Other
+200002943,Blue Collar
+200002944,Blue Collar
+200002945,Other
+300002946,Blue Collar
+100002947,White Collar
+100002948,White Collar
+100002949,White Collar
+100002950,White Collar
+100002951,White Collar
+100002952,White Collar
+100002953,White Collar
+100002954,Blue Collar
+100002955,White Collar
+100002956,White Collar
+100002957,White Collar
+100002958,White Collar
+100002959,White Collar
+100002960,White Collar
+100002961,White Collar
+100002962,White Collar
+100002963,Blue Collar
+100002964,White Collar
+100002965,White Collar
+100002966,Other
+100002967,White Collar
+100002968,White Collar
+100002969,White Collar
+100002970,Blue Collar
+100002971,Other
+200002972,Other
+200002973,Blue Collar
+200002974,White Collar
+200002975,Other
+200002976,Blue Collar
+200002977,Other
+200002978,Blue Collar
+200002979,Blue Collar
+400002980,Blue Collar
+100002981,Other
+100002982,White Collar
+100002983,Blue Collar
+100002984,Other
+100002985,White Collar
+100002986,Other
+200002987,Other
+200002988,Blue Collar
+200002989,Other
+200002990,Blue Collar
+200002991,Blue Collar
+100002992,White Collar
+100002993,Blue Collar
+100002994,White Collar
+100002995,Blue Collar
+100002996,Blue Collar
+100002997,Other
+100002998,Blue Collar
+100002999,White Collar
+100003000,White Collar
+100003001,Blue Collar
+100003002,White Collar
+200003003,Blue Collar
+200003004,Blue Collar
+200003005,White Collar
+300003006,White Collar
+300003007,White Collar
+300003008,Other
+400003009,Other
+100003010,White Collar
+100003011,White Collar
+100003012,White Collar
+200003013,Blue Collar
+200003014,Other
+300003015,Other
+100003016,White Collar
+100003017,Other
+100003018,White Collar
+100003019,White Collar
+100003020,White Collar
+100003021,Blue Collar
+100003022,White Collar
+100003023,White Collar
+100003024,White Collar
+100003025,Other
+100003026,White Collar
+100003027,White Collar
+100003028,White Collar
+200003029,White Collar
+200003030,Other
+200003031,Blue Collar
+200003032,Blue Collar
+200003033,Blue Collar
+300003034,Other
+300003035,White Collar
+400003036,Other
+400003037,Other
+100003038,White Collar
+100003039,White Collar
+100003040,Other
+100003041,White Collar
+200003042,Blue Collar
+200003043,Other
+200003044,Other
+100003045,Blue Collar
+100003046,White Collar
+100003047,White Collar
+100003048,White Collar
+100003049,Blue Collar
+100003050,White Collar
+100003051,White Collar
+200003052,Blue Collar
+200003053,Other
+200003054,Other
+200003055,Blue Collar
+100003056,White Collar
+100003057,Other
+100003058,White Collar
+100003059,White Collar
+100003060,White Collar
+100003061,Other
+100003062,Blue Collar
+100003063,White Collar
+100003064,White Collar
+100003065,White Collar
+100003066,White Collar
+200003067,White Collar
+200003068,Other
+200003069,White Collar
+200003070,Other
+200003071,Other
+200003072,Other
+300003073,White Collar
+300003074,White Collar
+300003075,White Collar
+100003076,Blue Collar
+100003077,White Collar
+100003078,Other
+100003079,White Collar
+100003080,Other
+100003081,Blue Collar
+100003082,Blue Collar
+100003083,White Collar
+200003084,Blue Collar
+200003085,Other
+200003086,Blue Collar
+200003087,Other
+200003088,Other
+200003089,Blue Collar
+300003090,Other
+100003091,White Collar
+100003092,White Collar
+100003093,White Collar
+100003094,White Collar
+100003095,White Collar
+100003096,Blue Collar
+100003097,White Collar
+200003098,White Collar
+200003099,Blue Collar
+200003100,Blue Collar
+200003101,Blue Collar
+200003102,Other
+200003103,Blue Collar
+300003104,White Collar
+300003105,White Collar
+300003106,Blue Collar
+100003107,White Collar
+100003108,White Collar
+100003109,White Collar
+100003110,White Collar
+100003111,Other
+100003112,White Collar
+100003113,White Collar
+100003114,White Collar
+100003115,White Collar
+100003116,Other
+100003117,White Collar
+200003118,Blue Collar
+200003119,Other
+200003120,White Collar
+200003121,Other
+200003122,Blue Collar
+200003123,Blue Collar
+200003124,Blue Collar
+200003125,Other
+200003126,Other
+200003127,Blue Collar
+200003128,Blue Collar
+300003129,White Collar
+300003130,White Collar
+300003131,White Collar
+300003132,Blue Collar
+100003133,Blue Collar
+100003134,White Collar
+100003135,Blue Collar
+100003136,White Collar
+100003137,White Collar
+200003138,Blue Collar
+200003139,Blue Collar
+200003140,Blue Collar
+200003141,Blue Collar
+300003142,White Collar
+300003143,Blue Collar
+300003144,White Collar
+100003145,White Collar
+100003146,White Collar
+100003147,White Collar
+100003148,White Collar
+100003149,White Collar
+100003150,White Collar
+100003151,White Collar
+200003152,Other
+200003153,Blue Collar
+200003154,Other
+200003155,Other
+300003156,White Collar
+300003157,White Collar
+300003158,Blue Collar
+100003159,White Collar
+100003160,White Collar
+100003161,White Collar
+100003162,White Collar
+100003163,White Collar
+100003164,White Collar
+100003165,White Collar
+100003166,Other
+100003167,Other
+100003168,White Collar
+100003169,Blue Collar
+100003170,White Collar
+100003171,White Collar
+100003172,Blue Collar
+100003173,Blue Collar
+100003174,White Collar
+100003175,Blue Collar
+200003176,Other
+200003177,Other
+200003178,Other
+200003179,Blue Collar
+200003180,Other
+200003181,Blue Collar
+200003182,Other
+200003183,Other
+200003184,Other
+300003185,White Collar
+300003186,White Collar
+300003187,Other
+300003188,Blue Collar
+100003189,White Collar
+100003190,White Collar
+100003191,Other
+100003192,White Collar
+100003193,Blue Collar
+100003194,White Collar
+100003195,White Collar
+100003196,Other
+100003197,White Collar
+100003198,Other
+100003199,White Collar
+300003200,White Collar
+300003201,White Collar
+100003202,White Collar
+100003203,White Collar
+100003204,Blue Collar
+100003205,White Collar
+100003206,White Collar
+100003207,White Collar
+100003208,White Collar
+100003209,Other
+100003210,White Collar
+100003211,White Collar
+100003212,White Collar
+100003213,White Collar
+200003214,Blue Collar
+200003215,Other
+100003216,White Collar
+100003217,White Collar
+100003218,White Collar
+100003219,Blue Collar
+100003220,White Collar
+100003221,White Collar
+100003222,Blue Collar
+100003223,White Collar
+100003224,Other
+100003225,White Collar
+100003226,White Collar
+100003227,White Collar
+100003228,White Collar
+100003229,White Collar
+100003230,Blue Collar
+100003231,White Collar
+100003232,White Collar
+100003233,White Collar
+100003234,Blue Collar
+100003235,White Collar
+100003236,Other
+100003237,White Collar
+200003238,Other
+200003239,White Collar
+200003240,Blue Collar
+200003241,Blue Collar
+200003242,Other
+200003243,Blue Collar
+200003244,Other
+200003245,Other
+300003246,White Collar
+300003247,White Collar
+300003248,Blue Collar
+100003249,White Collar
+100003250,Blue Collar
+100003251,White Collar
+100003252,White Collar
+100003253,White Collar
+100003254,White Collar
+300003255,Other
+300003256,White Collar
+100003257,Blue Collar
+100003258,White Collar
+100003259,White Collar
+200003260,Blue Collar
+200003261,Other
+300003262,White Collar
+300003263,White Collar
+300003264,Other
+300003265,White Collar
+100003266,Other
+100003267,White Collar
+100003268,White Collar
+100003269,White Collar
+100003270,Blue Collar
+100003271,Blue Collar
+100003272,Other
+100003273,Blue Collar
+100003274,White Collar
+200003275,Other
+100003276,White Collar
+100003277,White Collar
+100003278,White Collar
+100003279,Other
+100003280,White Collar
+100003281,White Collar
+100003282,White Collar
+100003283,White Collar
+100003284,White Collar
+100003285,Other
+100003286,White Collar
+100003287,White Collar
+100003288,White Collar
+200003289,Other
+200003290,Other
+200003291,Other
+200003292,Blue Collar
+200003293,Blue Collar
+200003294,Blue Collar
+200003295,Other
+200003296,Blue Collar
+200003297,Blue Collar
+200003298,Other
+300003299,White Collar
+100003300,Other
+100003301,White Collar
+100003302,White Collar
+100003303,Blue Collar
+100003304,Other
+200003305,Other
+200003306,Other
+100003307,Other
+100003308,White Collar
+100003309,White Collar
+100003310,White Collar
+100003311,White Collar
+100003312,White Collar
+100003313,White Collar
+100003314,Other
+100003315,White Collar
+100003316,Other
+100003317,White Collar
+200003318,Other
+300003319,White Collar
+300003320,White Collar
+400003321,White Collar
+100003322,White Collar
+100003323,Other
+100003324,Other
+100003325,Blue Collar
+100003326,Other
+100003327,White Collar
+100003328,White Collar
+100003329,White Collar
+100003330,Other
+100003331,Other
+100003332,White Collar
+100003333,Blue Collar
+100003334,White Collar
+100003335,White Collar
+200003336,Other
+200003337,Other
+200003338,Blue Collar
+200003339,Other
+200003340,Blue Collar
+200003341,Blue Collar
+300003342,White Collar
+300003343,White Collar
+300003344,White Collar
+100003345,White Collar
+100003346,White Collar
+100003347,White Collar
+100003348,White Collar
+100003349,Blue Collar
+100003350,Blue Collar
+200003351,White Collar
+200003352,Blue Collar
+200003353,Blue Collar
+200003354,Blue Collar
+300003355,White Collar
+300003356,White Collar
+300003357,Blue Collar
+100003358,White Collar
+100003359,Blue Collar
+100003360,White Collar
+100003361,White Collar
+100003362,Other
+100003363,White Collar
+100003364,Blue Collar
+100003365,Other
+200003366,Other
+200003367,Blue Collar
+300003368,Blue Collar
+300003369,White Collar
+400003370,Other
+100003371,White Collar
+100003372,White Collar
+100003373,White Collar
+100003374,Blue Collar
+100003375,White Collar
+100003376,Other
+100003377,Other
+100003378,Blue Collar
+100003379,White Collar
+100003380,White Collar
+100003381,Other
+100003382,White Collar
+100003383,White Collar
+100003384,Other
+100003385,White Collar
+100003386,White Collar
+100003387,White Collar
+100003388,White Collar
+100003389,Blue Collar
+100003390,Other
+100003391,Blue Collar
+100003392,White Collar
+100003393,White Collar
+100003394,Blue Collar
+100003395,Other
+100003396,White Collar
+100003397,White Collar
+100003398,White Collar
+200003399,Other
+200003400,Other
+200003401,Other
+200003402,Blue Collar
+200003403,Blue Collar
+200003404,Blue Collar
+200003405,Blue Collar
+200003406,Blue Collar
+200003407,Blue Collar
+300003408,White Collar
+300003409,Blue Collar
+300003410,Blue Collar
+300003411,Other
+300003412,White Collar
+300003413,White Collar
+300003414,White Collar
+400003415,Other
+100003416,White Collar
+100003417,White Collar
+100003418,Other
+100003419,White Collar
+100003420,White Collar
+100003421,Other
+100003422,White Collar
+100003423,White Collar
+200003424,White Collar
+200003425,White Collar
+200003426,Other
+200003427,Other
+200003428,Blue Collar
+300003429,White Collar
+300003430,Blue Collar
+300003431,Blue Collar
+300003432,White Collar
+300003433,White Collar
+100003434,White Collar
+100003435,White Collar
+100003436,Other
+100003437,Other
+100003438,White Collar
+200003439,Other
+200003440,Blue Collar
+200003441,Blue Collar
+300003442,Other
+400003443,Blue Collar
+100003444,White Collar
+100003445,White Collar
+100003446,White Collar
+100003447,White Collar
+100003448,White Collar
+100003449,White Collar
+100003450,White Collar
+100003451,White Collar
+100003452,Blue Collar
+100003453,Other
+100003454,White Collar
+100003455,White Collar
+100003456,Blue Collar
+100003457,White Collar
+100003458,White Collar
+200003459,White Collar
+200003460,Other
+200003461,Other
+200003462,White Collar
+200003463,Other
+200003464,Other
+300003465,White Collar
+300003466,Other
+300003467,White Collar
+300003468,Blue Collar
+300003469,White Collar
+300003470,White Collar
+300003471,White Collar
+400003472,Blue Collar
+100003473,White Collar
+100003474,White Collar
+100003475,White Collar
+200003476,Other
+200003477,Other
+200003478,Blue Collar
+300003479,White Collar
+300003480,White Collar
+100003481,White Collar
+100003482,White Collar
+100003483,White Collar
+100003484,White Collar
+100003485,White Collar
+100003486,White Collar
+100003487,Other
+100003488,Other
+100003489,White Collar
+100003490,Blue Collar
+100003491,Blue Collar
+200003492,Other
+200003493,White Collar
+200003494,Blue Collar
+200003495,Other
+200003496,Blue Collar
+300003497,Blue Collar
+100003498,White Collar
+100003499,Other
+100003500,White Collar
+100003501,Other
+100003502,White Collar
+100003503,White Collar
+100003504,White Collar
+100003505,White Collar
+100003506,White Collar
+100003507,White Collar
+100003508,Blue Collar
+100003509,White Collar
+100003510,Other
+100003511,White Collar
+100003512,Blue Collar
+100003513,White Collar
+100003514,Other
+100003515,Blue Collar
+100003516,White Collar
+100003517,White Collar
+100003518,White Collar
+100003519,White Collar
+100003520,Blue Collar
+200003521,Blue Collar
+200003522,White Collar
+200003523,Blue Collar
+200003524,Other
+200003525,Blue Collar
+200003526,Other
+200003527,Other
+200003528,Other
+200003529,Other
+200003530,Blue Collar
+200003531,Blue Collar
+200003532,Other
+200003533,White Collar
+300003534,White Collar
+300003535,Blue Collar
+300003536,Blue Collar
+100003537,Other
+100003538,White Collar
+100003539,White Collar
+200003540,Blue Collar
+200003541,Other
+200003542,Blue Collar
+200003543,Other
+200003544,Blue Collar
+200003545,White Collar
+200003546,Other
+200003547,Blue Collar
+200003548,Other
+300003549,Other
+100003550,White Collar
+100003551,White Collar
+100003552,White Collar
+100003553,White Collar
+100003554,Other
+100003555,Other
+100003556,White Collar
+100003557,White Collar
+100003558,White Collar
+200003559,Blue Collar
+200003560,Other
+200003561,White Collar
+200003562,Blue Collar
+200003563,Other
+200003564,White Collar
+200003565,Other
+200003566,Other
+200003567,White Collar
+200003568,Other
+300003569,White Collar
+100003570,Other
+100003571,Other
+100003572,White Collar
+100003573,Blue Collar
+100003574,White Collar
+100003575,Blue Collar
+100003576,White Collar
+100003577,Blue Collar
+200003578,Other
+200003579,Blue Collar
+200003580,Blue Collar
+200003581,Blue Collar
+200003582,Blue Collar
+200003583,Other
+100003584,White Collar
+100003585,White Collar
+100003586,White Collar
+100003587,White Collar
+100003588,White Collar
+100003589,Blue Collar
+100003590,Blue Collar
+100003591,White Collar
+100003592,White Collar
+100003593,White Collar
+100003594,White Collar
+100003595,Blue Collar
+100003596,White Collar
+100003597,White Collar
+100003598,White Collar
+100003599,White Collar
+100003600,White Collar
+100003601,White Collar
+100003602,Blue Collar
+100003603,White Collar
+200003604,Other
+200003605,Other
+200003606,Other
+200003607,Other
+200003608,White Collar
+200003609,Other
+200003610,Blue Collar
+200003611,Other
+200003612,Blue Collar
+100003613,White Collar
+100003614,White Collar
+100003615,White Collar
+100003616,White Collar
+200003617,White Collar
+200003618,Other
+200003619,Other
+200003620,Blue Collar
+100003621,Blue Collar
+100003622,White Collar
+200003623,Other
+200003624,White Collar
+200003625,Blue Collar
+200003626,Other
+100003627,White Collar
+100003628,White Collar
+100003629,White Collar
+100003630,White Collar
+100003631,White Collar
+100003632,White Collar
+100003633,White Collar
+100003634,White Collar
+100003635,White Collar
+100003636,White Collar
+100003637,White Collar
+100003638,White Collar
+100003639,Other
+100003640,Blue Collar
+100003641,White Collar
+100003642,Other
+100003643,White Collar
+100003644,White Collar
+200003645,Blue Collar
+200003646,Other
+200003647,Other
+200003648,Other
+200003649,Other
+200003650,Blue Collar
+200003651,Blue Collar
+200003652,Other
+200003653,Blue Collar
+300003654,White Collar
+300003655,Other
+300003656,White Collar
+300003657,Other
+100003658,White Collar
+100003659,Other
+100003660,Blue Collar
+200003661,Blue Collar
+200003662,Other
+200003663,Blue Collar
+300003664,White Collar
+100003665,White Collar
+100003666,Other
+100003667,White Collar
+100003668,White Collar
+100003669,White Collar
+100003670,White Collar
+100003671,Blue Collar
+100003672,Other
+100003673,White Collar
+200003674,Other
+200003675,Blue Collar
+200003676,Blue Collar
+200003677,Blue Collar
+300003678,White Collar
+300003679,Other
+100003680,White Collar
+100003681,Other
+100003682,White Collar
+100003683,White Collar
+100003684,Other
+100003685,White Collar
+100003686,Blue Collar
+100003687,White Collar
+100003688,Blue Collar
+100003689,White Collar
+100003690,Blue Collar
+200003691,Other
+200003692,White Collar
+200003693,Blue Collar
+200003694,Blue Collar
+200003695,Other
+200003696,Other
+200003697,Blue Collar
+200003698,Blue Collar
+200003699,Blue Collar
+200003700,Blue Collar
+200003701,Other
+200003702,Other
+200003703,Other
+300003704,Blue Collar
+300003705,White Collar
+300003706,Other
+300003707,Other
+100003708,White Collar
+100003709,White Collar
+100003710,Other
+100003711,White Collar
+100003712,White Collar
+100003713,White Collar
+100003714,White Collar
+100003715,White Collar
+100003716,Blue Collar
+200003717,Other
+200003718,Other
+200003719,Blue Collar
+200003720,Other
+200003721,Blue Collar
+200003722,Blue Collar
+200003723,Blue Collar
+300003724,Blue Collar
+300003725,White Collar
+300003726,White Collar
+100003727,White Collar
+100003728,Other
+100003729,White Collar
+100003730,White Collar
+100003731,White Collar
+100003732,White Collar
+100003733,Blue Collar
+100003734,White Collar
+100003735,White Collar
+100003736,White Collar
+100003737,White Collar
+100003738,White Collar
+200003739,Blue Collar
+200003740,Blue Collar
+200003741,Other
+300003742,White Collar
+400003743,Other
+100003744,White Collar
+100003745,White Collar
+100003746,White Collar
+100003747,Blue Collar
+100003748,Other
+100003749,Other
+100003750,White Collar
+100003751,White Collar
+100003752,White Collar
+100003753,Blue Collar
+100003754,White Collar
+100003755,White Collar
+100003756,White Collar
+100003757,White Collar
+100003758,White Collar
+100003759,Blue Collar
+100003760,White Collar
+100003761,White Collar
+100003762,White Collar
+100003763,Other
+100003764,Blue Collar
+100003765,White Collar
+200003766,Other
+200003767,Other
+200003768,Blue Collar
+200003769,Other
+200003770,Blue Collar
+200003771,Blue Collar
+200003772,Blue Collar
+200003773,Blue Collar
+200003774,Blue Collar
+300003775,Blue Collar
+300003776,White Collar
+300003777,Other
+300003778,Other
+300003779,White Collar
+100003780,Blue Collar
+100003781,White Collar
+100003782,White Collar
+100003783,White Collar
+100003784,White Collar
+100003785,White Collar
+100003786,White Collar
+100003787,Blue Collar
+100003788,White Collar
+100003789,Other
+200003790,Other
+200003791,Other
+200003792,Blue Collar
+200003793,Other
+200003794,Blue Collar
+200003795,Blue Collar
+200003796,Other
+100003797,White Collar
+100003798,White Collar
+100003799,White Collar
+100003800,Other
+200003801,Other
+200003802,White Collar
+200003803,Other
+300003804,White Collar
+100003805,Blue Collar
+100003806,White Collar
+100003807,White Collar
+100003808,White Collar
+100003809,White Collar
+100003810,White Collar
+100003811,White Collar
+100003812,White Collar
+100003813,White Collar
+100003814,White Collar
+100003815,White Collar
+100003816,White Collar
+100003817,White Collar
+100003818,Other
+100003819,White Collar
+100003820,White Collar
+200003821,Blue Collar
+200003822,White Collar
+200003823,Other
+200003824,Other
+200003825,Blue Collar
+300003826,White Collar
+300003827,White Collar
+100003828,Other
+100003829,White Collar
+100003830,White Collar
+100003831,White Collar
+100003832,Blue Collar
+100003833,White Collar
+100003834,Other
+100003835,White Collar
+100003836,Blue Collar
+100003837,White Collar
+100003838,White Collar
+200003839,Other
+200003840,Other
+200003841,Blue Collar
+200003842,Blue Collar
+200003843,Blue Collar
+200003844,Other
+300003845,White Collar
+300003846,Other
+400003847,White Collar
+400003848,Other
+100003849,Blue Collar
+100003850,White Collar
+100003851,White Collar
+100003852,Blue Collar
+100003853,Blue Collar
+100003854,White Collar
+100003855,White Collar
+100003856,Blue Collar
+200003857,Blue Collar
+200003858,Other
+200003859,White Collar
+200003860,Blue Collar
+200003861,Blue Collar
+200003862,Blue Collar
+200003863,Blue Collar
+300003864,Blue Collar
+100003865,White Collar
+100003866,Blue Collar
+100003867,Blue Collar
+100003868,Blue Collar
+100003869,White Collar
+200003870,Other
+200003871,Other
+300003872,White Collar
+100003873,White Collar
+100003874,Blue Collar
+100003875,White Collar
+100003876,Other
+100003877,White Collar
+100003878,White Collar
+100003879,White Collar
+100003880,White Collar
+100003881,White Collar
+100003882,Blue Collar
+100003883,White Collar
+100003884,White Collar
+100003885,White Collar
+100003886,Blue Collar
+100003887,White Collar
+100003888,White Collar
+100003889,White Collar
+100003890,White Collar
+100003891,White Collar
+100003892,White Collar
+100003893,White Collar
+100003894,White Collar
+100003895,White Collar
+100003896,White Collar
+200003897,Blue Collar
+200003898,Blue Collar
+200003899,Blue Collar
+200003900,Other
+200003901,Blue Collar
+200003902,Other
+200003903,Other
+200003904,Other
+200003905,Blue Collar
+200003906,Other
+200003907,Other
+300003908,White Collar
+300003909,White Collar
+300003910,Other
+300003911,Blue Collar
+300003912,White Collar
+100003913,Other
+100003914,White Collar
+100003915,White Collar
+100003916,Blue Collar
+100003917,White Collar
+100003918,White Collar
+100003919,Blue Collar
+100003920,White Collar
+100003921,White Collar
+100003922,White Collar
+200003923,Blue Collar
+200003924,Blue Collar
+200003925,Other
+200003926,Blue Collar
+100003927,White Collar
+100003928,White Collar
+100003929,White Collar
+100003930,White Collar
+100003931,Other
+100003932,Other
+100003933,White Collar
+100003934,White Collar
+100003935,White Collar
+200003936,Blue Collar
+200003937,Blue Collar
+200003938,White Collar
+200003939,Other
+200003940,Blue Collar
+200003941,Other
+100003942,White Collar
+100003943,White Collar
+100003944,White Collar
+100003945,Blue Collar
+100003946,Other
+100003947,Blue Collar
+100003948,Blue Collar
+100003949,White Collar
+100003950,White Collar
+100003951,Other
+100003952,Blue Collar
+200003953,Other
+200003954,Other
+200003955,Blue Collar
+300003956,Blue Collar
+300003957,Blue Collar
+100003958,White Collar
+100003959,White Collar
+100003960,White Collar
+100003961,Other
+100003962,Blue Collar
+100003963,White Collar
+100003964,White Collar
+100003965,White Collar
+100003966,Blue Collar
+100003967,Blue Collar
+200003968,Other
+200003969,Other
+200003970,Other
+200003971,Blue Collar
+200003972,Blue Collar
+300003973,Other
+100003974,White Collar
+100003975,White Collar
+100003976,White Collar
+100003977,White Collar
+100003978,White Collar
+200003979,Blue Collar
+200003980,Other
+200003981,Other
+200003982,Other
+300003983,Blue Collar
+100003984,White Collar
+100003985,White Collar
+100003986,Blue Collar
+100003987,Blue Collar
+100003988,White Collar
+100003989,White Collar
+100003990,White Collar
+100003991,White Collar
+100003992,White Collar
+100003993,White Collar
+100003994,White Collar
+100003995,White Collar
+200003996,Blue Collar
+200003997,Blue Collar
+200003998,Other
+200003999,Other
+300004000,White Collar
+300004001,White Collar
+300004002,White Collar
+100004003,White Collar
+100004004,Blue Collar
+100004005,White Collar
+100004006,Other
+100004007,Blue Collar
+100004008,Blue Collar
+200004009,Other
+200004010,Other
+200004011,Blue Collar
+200004012,Other
+200004013,Blue Collar
+300004014,Blue Collar
